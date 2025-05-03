@@ -1,3 +1,5 @@
+# Project is outdated. Please do not use it.
+
 # Digispark-payloads
 
 ## FOR EDUCATIONNAL PURPOSES ONLY
@@ -9,9 +11,9 @@ These payloads consist of running a hidden powershell instance executing command
  
 - Monero miner installer details & info :
 1. cds to the user startup folder
-2. downloads <a href="3.ly/acKvl">Runbroker.exe</a> (it's <a href="https://github.com/xmrig/xmrig">xmrig</a>)
-3. downloads <a href="3.ly/acKvu">System.vbs</a> (a shortcut to execute Runtime broker.exe with some specific arguments such as the miner's monero address)
+2. downloads [Runbroker.exe](https://3.ly/acKvl) (it's [xmrig](https://github.com/xmrig/xmrig))
+3. downloads [System.vbs](https://3.ly/acKvu) (a shortcut to execute Runtime broker.exe with some specific arguments such as the miner's monero address)
 4. makes Runtime Brocker.exe a hidden system file (so even if "hidden elements" are shown in the explorer, this file will not be shown)
 
 - Rickroll details & info :
-downloads a <a href="u.nu/d1uTS">rickroll shortcut</a> into the user startup folder as rl.Ink
+downloads a [rickroll](https://u.nu/d1uTS) shortcut into the user startup folder as rl.Ink
